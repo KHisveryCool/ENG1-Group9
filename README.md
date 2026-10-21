@@ -30,7 +30,7 @@ You are a UoY student surrounded by very hungry geese on a sunny spring day on c
 
 ### Gameplay
 - The game lasts up to **5 minutes** and **starts paused**. You can pause at any time.
--  Move around a scrolling campus map. Geese start chasing you, and **more geese spawn as you collect bread**, up to a maximum of 40.
+-  Move around a scrolling campus map. Geese start chasing you, and **more geese spawn as you collect bread**, up to a maximum of 128.
 -  Geese cannot catch you, but they **peck**. Each peck fills your **annoyance bar**.
 -  Use your items to distract, feed or occupy the geese. Items are **consumed** when used.
 -  Hidden events (invisible until triggered) can help or hurt you.
