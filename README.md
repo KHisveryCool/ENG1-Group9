@@ -30,10 +30,10 @@ You are a UoY student surrounded by very hungry geese on a sunny spring day on c
 
 ### Gameplay
 - The game lasts up to **5 minutes** and **starts paused**. You can pause at any time.
--  Move around a scrolling campus map. Geese start chasing you, and **more geese spawn as you collect bread**, up to a maximum of 128.
--  Geese cannot catch you, but they **peck**. Each peck fills your **annoyance bar**.
--  Use your items to distract, feed or occupy the geese. Items are **consumed** when used.
--  Hidden events (invisible until triggered) can help or hurt you.
--  **Win:** collect enough bread, get a bus ticket from the Long Boi statue, then reach the bus station in time.
--  **Lose:** the timer reaches zero, or the annoyance bar fills.
--  **Score:** based on how fast you win and how well you used your items.
+- Move around a scrolling campus map. Geese start chasing you, and **more geese spawn as you collect bread**, up to a maximum of 128.
+- Geese cannot catch you, but they **peck**. Each peck fills your **annoyance bar**.
+- Use bread and your other items to distract, feed or occupy the geese. Items are **consumed** when used. You can use up to about **90% of the bread**, so spend it wisely.
+- Hidden events (invisible until triggered) can help or hurt you.
+- **Win:** use bread to **disperse all the geese**, then get the bus ticket from the Long Boi statue and reach the bus station in time.
+- **Lose:** the timer reaches zero, or the annoyance bar fills.
+- **Score:** based on how fast you win and how well you used your items.
